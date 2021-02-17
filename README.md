@@ -5,4 +5,3 @@ This is a line from RStudio
 
 Ciao a tutti
 
-miao
